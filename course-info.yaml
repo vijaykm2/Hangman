@@ -9,5 +9,6 @@ summary: Games can help you kill time when you’re bored. But before smartphone
   the guessing!<br/><br/>Learn more at <a href="https://hyperskill.org">https://hyperskill.org/projects/69</a>
 programming_language: Python
 content:
+- Hangman
 - Problems
 mode: Study
